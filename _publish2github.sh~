@@ -1,0 +1,11 @@
+#!/bin/zsh
+cd /Users/tja/Library/CloudStorage/OneDrive-CADepartmentofPublicHealth/tja/gh/blog_DrTomasAragon.github.io/DrTomasAragon.github.io
+rm -rf *
+# copy blog contents
+cp -R /Users/tja/Library/CloudStorage/OneDrive-CADepartmentofPublicHealth/tja/gh/blog_dev/myblog/_site/ /Users/tja/Library/CloudStorage/OneDrive-CADepartmentofPublicHealth/tja/gh/blog_DrTomasAragon.github.io/DrTomasAragon.github.io
+# TODO copy README 
+# upload to https://drtomasaragon.github.io/lphi/
+git add --all
+git commit -m "Update commit"
+git push -u origin master
+cd /Users/tja/Library/CloudStorage/OneDrive-CADepartmentofPublicHealth/tja/gh/blog_dev/
