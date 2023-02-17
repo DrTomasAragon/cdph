@@ -15,8 +15,7 @@ We are hiring!
 
 Decision-making is our most important activity. “A decision is a choice between two or more alternatives that involves an irrevocable allocation of resources.” Decisions drive vision, strategy, policy, and transformational change. Every decision has causal assumptions, predictions, trade-offs, and an opportunity cost—the lost benefit of the better option(s) not chosen or not considered.
 
-Decision intelligence is using ethics, science and technology to improve individual and team decisions for finding and solving problems, and achieving Objectives and Key Results in challenging, including VUCA,[^a] environments.
+Decision intelligence is using ethics, science and technology to improve individual and team decisions for finding and solving problems, and achieving Objectives and Key Results in challenging, including VUCA,[^1] environments.
 
-
-[^a] volatile, uncertain, complex, and ambiguous
+[^1]: volatile, uncertain, complex, and ambiguous
 
