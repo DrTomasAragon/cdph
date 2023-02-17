@@ -19,3 +19,20 @@ Decision intelligence is using ethics, science and technology to improve individ
 
 [^1]: volatile, uncertain, complex, and ambiguous
 
+The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (DIU) to develop, implement, and improve strategic decision-making methods for high stakes, high cost, and high impact public health decisions. Methods include will cost-benefit and cost-effective analyses, and decision analysis. They will secure grants and develop collaborative partnerships with academia. The major areas of initial focus, development, and collaboration will be
+
+•	Decision making under deep uncertainty (risks not calculable)
+•	Methods to optimize policy and regulatory decisions
+•	Computational modeling for predictive and decision analytics (using Bayesian networks, Markov Decision Processes, Partially Observable Markov Decision Processes, Reinforcement Learning)
+•	Design and improvement of team decision meetings ("dialog decision process") that incorporate modern team psychology and behavioral economics
+
+The DIU will require the following specialized staff
+•	Health economist with expertise in population health cost-benefit and cost-effectiveness analyses
+•	Behavioral economist with expertise in decision implementation science
+•	Computational decision scientist with expertise in Markov decision processes and reinforcement learning
+•	Data scientist/computer programmer
+•	Biostatistician
+
+The DIU will ensure policy strategic alignment and execution across CDPH Centers, and will work closely with the Center Health Statistics and Informatics (CHSI) that is leading decision intelligence efforts in data and information systems and computational methods.
+![image](https://user-images.githubusercontent.com/5156073/219543801-51dbecea-8814-4c94-85fb-7f466629c305.png)
+
