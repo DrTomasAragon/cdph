@@ -1,10 +1,16 @@
-# California Department of Public Health (CDPH)
+# CDPH is building a Decision Intelligence Unit
 
 Tomás Aragón, MD, DrPH  
 State Public Health Officer and Director  
 California Department of Public Health
 
+We are hiring!
 
-See CDPH Guidance for Directorate Briefings [here](https://github.com/DrTomasAragon/cdph/blob/main/CDPH_Directorate_Briefings_Guidance_v20229999.pdf)
+1. [Research & Analysis Section Supervisor (Research Scientist Supervisor II)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351392)
+2. Policy Research Scientist (Research Scientist III)
+3. Research & Analysis Epidemiologist (Research Scientist III)
+4. Decision Intelligence Unit Chief (Research Scientist Supervisor I)
+5. Behavioral Economist Implementation Scientist (Research Scientist III)
+6. Academic Partnerships Research Scientist (Research Scientist III)
 
-See slides on CDPH lean transformation [here](https://github.com/DrTomasAragon/cdph/blob/main/20229999_CDPH_Lean_Transformation_GEN.pdf).
+
