@@ -31,7 +31,7 @@ The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (D
 -	Computational modeling for predictive and decision analytics (using Bayesian networks (including decision networks [influence diagrams]), Markov Decision Processes (MDPs), Partially Observable Markov Decision Processes (POMDPs), Reinforcement Learning, Agent-based modeling)
 -	Design and improvement of team decision meetings ("dialog decision process") that incorporate team cognitive psychology and behavioral economics
 
-The DIU will have a trans-disciplinary staff
+The DIU will have a trans-disciplinary team:
 
 -	Health economist with expertise in population health cost-benefit and cost-effectiveness analyses
 -	Behavioral economist with expertise in decision implementation science
