@@ -64,4 +64,4 @@ Here is a graphical depiction of the Table.[^bayesialab] We aim to improve our "
 
 ![Population Health Data Science](Bayesia_TheoryData.svg)
 
-[^bayesialab]: Source: https://www.bayesia.com/home/en-us/
+[^bayesialab]: Source: https://www.bayesia.com/articles/#!bayesialab-knowledge-hub/1-introduction
