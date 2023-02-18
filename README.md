@@ -14,7 +14,9 @@ We are hiring!
 5. [Behavioral Economist Implementation Scientist (Research Scientist III)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351381)
 6. [Academic Partnerships Research Scientist (Research Scientist III)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351400)
 
-Decision-making is our most important activity. "A decision is a choice between two or more alternatives that involves an irrevocable allocation of resources." Decisions drive vision, strategy, policy, and transformational change. Every decision has causal assumptions, predictions, trade-offs, and an opportunity cost—the lost benefit of the better option(s) not chosen or not considered. Some decisions have extreme time constraints under deep uncertainty. (See [blog posting](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/).)
+[Decision-making is our most important activity](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/).[^diblog] "A decision is a choice between two or more alternatives that involves an irrevocable allocation of resources." Decisions drive vision, strategy, policy, and transformational change. Every decision has causal assumptions, predictions, trade-offs, and an opportunity cost—the lost benefit of the better option(s) not chosen or not considered. Some decisions have extreme time constraints under deep uncertainty.
+
+[^diblog]: Aragon TJ (2021). Decision intelligence: An Introduction. Available from: [https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/)
 
 Decision intelligence is using ethics, science, and technology to improve individual and team decisions for finding and solving problems, and achieving objectives and key results in challenging, including VUCA,[^1] environments.
 
