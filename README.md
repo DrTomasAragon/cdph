@@ -16,7 +16,7 @@ We are hiring!
 
 [Decision-making is our most important activity](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/).[^diblog] "A decision is a choice between two or more alternatives that involves an irrevocable allocation of resources." Decisions drive vision, strategy, policy, and transformational change. Every decision has causal assumptions, predictions, trade-offs, and an opportunity cost—the lost benefit of the better option(s) not chosen or not considered. Some decisions have extreme time constraints under deep uncertainty.
 
-[^diblog]: Aragon TJ (2021). Decision intelligence: An Introduction. Available from: [https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/)
+[^diblog]: Tomas Aragon (2021). Decision intelligence: An Introduction. Available from: [https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/)
 
 Decision intelligence is using ethics, science, and technology to improve individual and team decisions for finding and solving problems, and achieving objectives and key results in challenging, including VUCA,[^1] environments.
 
@@ -29,7 +29,10 @@ The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (D
 -	Decision making under uncertainty, including deep uncertainty (ie, risks not calculable)
 -	Methods to optimize policy and regulatory decisions
 -	Computational modeling for predictive and decision analytics (using Bayesian networks (including decision networks [influence diagrams]), Markov Decision Processes (MDPs), Partially Observable Markov Decision Processes (POMDPs), Reinforcement Learning, Agent-based modeling)
--	Decision architecture: Design and improve of team decision meetings that incorporate cognitive psychology and behavioral economics
+-	[Leaders as decision architects](https://hbr.org/2015/05/leaders-as-decision-architects):[^da] Design and improve of team decision meetings that incorporate cognitive psychology and behavioral economics
+
+[^da]: John Beshears and Francesca Gino (2015). Leaders as Decision Architects: Structure your organization’s work to encourage wise choices. Harvard Business Review. Available from:  [https://hbr.org/2015/05/leaders-as-decision-architects](https://hbr.org/2015/05/leaders-as-decision-architects)
+
 
 The DIU will have a trans-disciplinary team:
 
