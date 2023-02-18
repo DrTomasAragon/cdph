@@ -44,5 +44,14 @@ The DIU will have a trans-disciplinary team:
 
 The DIU is part of CDPH's longer term strategy to build our capability in population health data science (Table).
 
-![Population Health Data Science](img_phds.png)
+|Level | Analysis | Description|
+| --- | --- | --- |
+|1 | Description | (a) surveillance and early detection of events|
+| | | (b) prevalence and incidence of risks and outcomes|
+|2 | Prediction | (a) early prediction and targeting of interventions|
+|3| Explanation$^a$ | (a) discovery and testing of new causal pathways|
+|||(b) estimation of intervention efficacy/effectiveness|
+|4| Simulation | (a) modeling for epidemiologic or decision insights|
+|5| Optimization$^b$ |(a) optimizing decision, effectiveness, or efficiency metrics|
+
 
