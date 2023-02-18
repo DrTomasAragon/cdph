@@ -29,7 +29,7 @@ The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (D
 -	Decision making under uncertainty, including deep uncertainty (ie, risks not calculable)
 -	Methods to optimize policy and regulatory decisions
 -	Computational modeling for predictive and decision analytics (using Bayesian networks (including decision networks [influence diagrams]), Markov Decision Processes (MDPs), Partially Observable Markov Decision Processes (POMDPs), Reinforcement Learning, Agent-based modeling)
--	Design and improvement of team decision meetings ("dialog decision process") that incorporate team cognitive psychology and behavioral economics
+-	Decision architecture: Design and improve of team decision meetings that incorporate cognitive psychology and behavioral economics
 
 The DIU will have a trans-disciplinary team:
 
