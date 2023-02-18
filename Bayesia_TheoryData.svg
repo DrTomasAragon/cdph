@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="231.33333 4.1666056 905.168 572.1251" width="905.168" height="572.1251">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="140.81653" y="-53.0459">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".4" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in"/>
+    </filter>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c7b8ff"/>
+      <stop offset=".45238096" stop-color="#a08fe4"/>
+      <stop offset="1" stop-color="#7663c6"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(365.33577 22) rotate(90) scale(434)"/>
+    <font-face font-family="Helvetica" font-size="14" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <linearGradient x1="0" x2="1" id="Gradient_2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebebeb" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0096ff"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient_2" xl:href="#Gradient_2" gradientTransform="translate(578 358.93103) scale(286)"/>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <linearGradient id="Obj_Gradient_3" xl:href="#Gradient_2" gradientTransform="translate(867 358.93104) scale(179)"/>
+    <linearGradient x1="0" x2="1" id="Gradient_3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebebeb" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0096ff"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient_4" xl:href="#Gradient_3" gradientTransform="translate(849.5056 100) rotate(180) scale(407.75164)"/>
+    <filter id="Shadow_2" filterUnits="userSpaceOnUse" x="140.81653" y="-53.0459">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in" result="color"/>
+      <feMerge>
+        <feMergeNode in="color"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="Obj_Gradient_5" xl:href="#Gradient" gradientTransform="translate(365.33577 22) rotate(90) scale(434)"/>
+    <font-face font-family="Helvetica" font-size="24" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Helvetica-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="18" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Helvetica-Bold"/>
+      </font-face-src>
+    </font-face>
+    <filter id="Shadow_3" filterUnits="userSpaceOnUse" x="140.81653" y="-53.0459">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".4" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in" result="color"/>
+      <feMerge>
+        <feMergeNode in="color"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient x1="0" x2="1" id="Gradient_4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c7b8ff"/>
+      <stop offset=".5598338" stop-color="#a08fe4"/>
+      <stop offset="1" stop-color="#7663c6"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient_6" xl:href="#Gradient_4" gradientTransform="translate(372 504) scale(761.0013)"/>
+    <font-face font-family="Helvetica" font-size="13" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="24" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.16 
+    <dc:date>2016-04-16 21:01:25 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none" fill="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_69_shadow" filter="url(#Shadow)">
+        <path d="M 365.33577 456 L 305.33577 435.94685 L 334.90084 435.94685 L 334.90084 42.05315 L 305.33577 42.05315 L 365.33577 22 L 425.33577 42.05315 L 395.7707 42.05315 L 395.7707 435.94685 L 425.33577 435.94685 Z" fill="url(#Obj_Gradient)"/>
+        <path d="M 365.33577 456 L 305.33577 435.94685 L 334.90084 435.94685 L 334.90084 42.05315 L 305.33577 42.05315 L 365.33577 22 L 425.33577 42.05315 L 395.7707 42.05315 L 395.7707 435.94685 L 425.33577 435.94685 Z" stroke="#6346ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_77">
+        <rect x="695.5014" y="436.806" width="384.0001" height="47.443985" fill="#d5fc79"/>
+        <text transform="translate(700.5014 441.806)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="148.56157" y="14">&quot;Reasoning&quot;</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <path d="M 583 294.93103 L 859 294.93103 C 861.7614 294.93103 864 297.1696 864 299.93103 L 864 417.93103 C 864 420.69245 861.7614 422.93103 859 422.93103 L 583 422.93103 C 580.2386 422.93103 578 420.69245 578 417.93103 L 578 299.93103 C 578 297.1696 580.2386 294.93103 583 294.93103 Z" fill="url(#Obj_Gradient_2)"/>
+        <text transform="translate(583 294.93103)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="160.5996" y="11">Explanatory Modeling</tspan>
+        </text>
+      </g>
+      <g id="Graphic_78">
+        <path d="M 872 294.93104 L 1041 294.93104 C 1043.7614 294.93104 1046 297.1696 1046 299.93104 L 1046 417.93104 C 1046 420.69246 1043.7614 422.93104 1041 422.93104 L 872 422.93104 C 869.2386 422.93104 867 420.69246 867 417.93104 L 867 299.93104 C 867 297.1696 869.2386 294.93104 872 294.93104 Z" fill="url(#Obj_Gradient_3)"/>
+        <text transform="translate(872 294.93104)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="55.609375" y="11">Operations Research</tspan>
+        </text>
+      </g>
+      <g id="Graphic_70">
+        <path d="M 446.754 32 L 844.5056 32 C 847.2671 32 849.5056 34.238576 849.5056 37 L 849.5056 163 C 849.5056 165.76142 847.2671 168 844.5056 168 L 446.754 168 C 443.9926 168 441.754 165.76142 441.754 163 L 441.754 37 C 441.754 34.238576 443.9926 32 446.754 32 Z" fill="url(#Obj_Gradient_4)"/>
+        <text transform="translate(446.754 32)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">Predictive Modeling</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33" filter="url(#Shadow_2)">
+        <rect x="745.50565" y="319" width="104" height="36" fill="white"/>
+        <rect x="745.50565" y="319" width="104" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(750.50565 328.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="12.765625" y="14">Economics</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1" filter="url(#Shadow_2)">
+        <rect x="720.50565" y="346.4655" width="104" height="36" fill="white"/>
+        <rect x="720.50565" y="346.4655" width="104" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(725.50565 347.4655)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="27.93457" y="14">Social </tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="18.59668" y="31">Sciences</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29" filter="url(#Shadow_2)">
+        <rect x="693.50565" y="376.61206" width="104" height="36" fill="white"/>
+        <rect x="693.50565" y="376.61206" width="104" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(698.50565 386.11206)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="4.976074" y="14">Epidemiology</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30" filter="url(#Shadow_2)">
+        <rect x="701.3333" y="462.05604" width="104" height="22.193966" fill="white"/>
+        <text transform="translate(706.3333 464.653)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="10.41748" y="14">Explanation</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <rect x="555.5014" y="462.05604" width="104" height="22.193966" fill="white"/>
+        <text transform="translate(560.5014 464.653)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="15.872559" y="14">Prediction</tspan>
+        </text>
+      </g>
+      <g id="Graphic_34" filter="url(#Shadow_2)">
+        <rect x="546.0038" y="51.333333" width="104" height="36" fill="white"/>
+        <rect x="546.0038" y="51.333333" width="104" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(551.0038 60.83333)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="23.265625" y="14">Scoring</tspan>
+        </text>
+      </g>
+      <g id="Graphic_37" filter="url(#Shadow_2)">
+        <rect x="516.00225" y="82" width="104" height="36" fill="white"/>
+        <rect x="516.00225" y="82" width="104" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(521.00225 91.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="10.427734" y="14">Forecasting</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38" filter="url(#Shadow_2)">
+        <rect x="480.6712" y="111.59043" width="104" height="36" fill="white"/>
+        <rect x="480.6712" y="111.59043" width="104" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(485.6712 121.09043)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="5.762207" y="14">Classification</tspan>
+        </text>
+      </g>
+      <g id="Graphic_64">
+        <rect x="415.5014" y="462.05604" width="104" height="22.193966" fill="white"/>
+        <text transform="translate(420.5014 464.653)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="11.986328" y="14">Description</tspan>
+        </text>
+      </g>
+      <g id="Graphic_69">
+        <path d="M 365.33577 456 L 305.33577 435.94685 L 334.90084 435.94685 L 334.90084 42.05315 L 305.33577 42.05315 L 365.33577 22 L 425.33577 42.05315 L 395.7707 42.05315 L 395.7707 435.94685 L 425.33577 435.94685 Z" fill="url(#Obj_Gradient_5)"/>
+        <path d="M 365.33577 456 L 305.33577 435.94685 L 334.90084 435.94685 L 334.90084 42.05315 L 305.33577 42.05315 L 365.33577 22 L 425.33577 42.05315 L 395.7707 42.05315 L 395.7707 435.94685 L 425.33577 435.94685 Z" stroke="#6346ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(350.83577 396.75) rotate(-90)" fill="black">
+          <tspan font-family="Helvetica" font-size="24" font-weight="700" fill="black" x="79.07031" y="23">Model Source</tspan>
+        </text>
+      </g>
+      <g id="Graphic_35" filter="url(#Shadow_2)">
+        <rect x="318.16972" y="361.96057" width="94.33215" height="36" fill="white"/>
+        <rect x="318.16972" y="361.96057" width="94.33215" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(323.16972 368.96057)" fill="black">
+          <tspan font-family="Helvetica" font-size="18" font-weight="700" fill="black" x="12.160213" y="18">Theory</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41" filter="url(#Shadow_2)">
+        <rect x="318.1697" y="79" width="94.33215" height="36" fill="white"/>
+        <rect x="318.1697" y="79" width="94.33215" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(323.1697 86)" fill="black">
+          <tspan font-family="Helvetica" font-size="18" font-weight="700" fill="black" x="22.658749" y="18">Data</tspan>
+        </text>
+      </g>
+      <g id="Graphic_71" filter="url(#Shadow_2)">
+        <rect x="835.5014" y="462.05604" width="104" height="22.193966" fill="white"/>
+        <text transform="translate(840.5014 464.653)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="14.317383" y="14">Simulation</tspan>
+        </text>
+      </g>
+      <g id="Graphic_72" filter="url(#Shadow_2)">
+        <rect x="969.6695" y="462.05604" width="104" height="22.193966" fill="white"/>
+        <text transform="translate(974.6695 464.653)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="8.09668" y="14">Optimization</tspan>
+        </text>
+      </g>
+      <g id="Graphic_68" filter="url(#Shadow_3)">
+        <path d="M 372 504 L 392.05316 467.66666 L 392.05316 485.56996 L 1112.9482 485.56996 L 1112.9482 467.66666 L 1133.0014 504 L 1112.9482 540.33334 L 1112.9482 522.43004 L 392.05316 522.43004 L 392.05316 540.33334 Z" fill="url(#Obj_Gradient_6)"/>
+        <path d="M 372 504 L 392.05316 467.66666 L 392.05316 485.56996 L 1112.9482 485.56996 L 1112.9482 467.66666 L 1133.0014 504 L 1112.9482 540.33334 L 1112.9482 522.43004 L 392.05316 522.43004 L 392.05316 540.33334 Z" stroke="#6346ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(472.1252 489.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="24" font-weight="700" fill="black" x="176.37158" y="23">Modeling Purpose</tspan>
+        </text>
+      </g>
+      <g id="Graphic_79" filter="url(#Shadow_2)">
+        <rect x="920.3433" y="329.8405" width="104" height="36" fill="white"/>
+        <rect x="920.3433" y="329.8405" width="104" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(925.3433 339.3405)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="5.762207" y="14">Risk Analysis</tspan>
+        </text>
+      </g>
+      <g id="Graphic_48" filter="url(#Shadow_2)">
+        <rect x="896.3333" y="360.9655" width="104" height="36" fill="white"/>
+        <rect x="896.3333" y="360.9655" width="104" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(901.3333 361.9655)" fill="black">
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="20.155273" y="14">Decision </tspan>
+          <tspan font-family="Helvetica" font-size="14" font-weight="400" fill="black" x="20.93457" y="31">Analysis</tspan>
+        </text>
+      </g>
+      <g id="Graphic_57">
+        <rect x="231.33338" y="373.61207" width="77.33332" height="36" fill="white"/>
+        <text transform="translate(236.33338 375.61207)" fill="black">
+          <tspan font-family="Helvetica" font-size="13" font-weight="400" fill="black" x="12.713051" y="13">Human </tspan>
+          <tspan font-family="Helvetica" font-size="13" font-weight="400" fill="black" x=".7826309" y="29">Intelligence</tspan>
+        </text>
+      </g>
+      <g id="Graphic_39">
+        <rect x="231.33337" y="328.9454" width="77.33333" height="36" fill="white"/>
+        <text transform="translate(236.33337 330.9454)" fill="black">
+          <tspan font-family="Helvetica" font-size="13" font-weight="400" fill="black" x="12.713051" y="13">Human </tspan>
+          <tspan font-family="Helvetica" font-size="13" font-weight="400" fill="black" x="8.36808" y="29">Learning</tspan>
+        </text>
+      </g>
+      <g id="Graphic_58">
+        <rect x="231.33333" y="118.06976" width="77.33333" height="36" fill="white"/>
+        <text transform="translate(236.33333 120.06976)" fill="black">
+          <tspan font-family="Helvetica" font-size="13" font-weight="400" fill="black" x="10.91349" y="13">Artificial </tspan>
+          <tspan font-family="Helvetica" font-size="13" font-weight="400" fill="black" x=".7826309" y="29">Intelligence</tspan>
+        </text>
+      </g>
+      <g id="Graphic_42">
+        <rect x="231.33334" y="71" width="77.33333" height="36" fill="white"/>
+        <text transform="translate(236.33334 73)" fill="black">
+          <tspan font-family="Helvetica" font-size="13" font-weight="400" fill="black" x="9.098061" y="13">Machine </tspan>
+          <tspan font-family="Helvetica" font-size="13" font-weight="400" fill="black" x="8.36808" y="29">Learning</tspan>
+        </text>
+      </g>
+      <g id="Graphic_85" filter="url(#Shadow_2)">
+        <rect x="446.6723" y="498.125" width="171.99773" height="72.66667" fill="white"/>
+        <rect x="446.6723" y="498.125" width="171.99773" height="72.66667" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(451.6723 512.45834)" fill="black">
+          <tspan font-family="Helvetica" font-size="18" font-weight="700" fill="black" x="29.987144" y="18">Association</tspan>
+          <tspan font-family="Helvetica" font-size="18" font-weight="700" fill="black" x="32.993004" y="40">Correlation</tspan>
+        </text>
+      </g>
+      <g id="Graphic_87" filter="url(#Shadow_2)">
+        <rect x="863.0012" y="498.125" width="171.99773" height="36" fill="white"/>
+        <rect x="863.0012" y="498.125" width="171.99773" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(868.0012 505.125)" fill="black">
+          <tspan font-family="Helvetica" font-size="18" font-weight="700" fill="black" x="37.493004" y="18">Causation</tspan>
+        </text>
+      </g>
+      <g id="Line_88">
+        <line x1="675.0014" y1="5.6666056" x2="675.0014" y2="484.25" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="24.0,15.0" stroke-width="3"/>
+      </g>
+      <g id="Line_89">
+        <line x1="1079.5015" y1="247.66667" x2="401.33335" y2="247.66667" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="24.0,15.0" stroke-width="3"/>
+      </g>
+      <g id="Graphic_90">
+        <text transform="translate(634.9844 251.29885)" fill="#aaa">
+          <tspan font-family="Helvetica" font-size="24" font-weight="400" fill="#aaa" x="0" y="23">Q1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_91">
+        <text transform="translate(637.9844 216.03448)" fill="#aaa">
+          <tspan font-family="Helvetica" font-size="24" font-weight="400" fill="#aaa" x="0" y="23">Q2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_92">
+        <text transform="translate(683.5028 216.03448)" fill="#aaa">
+          <tspan font-family="Helvetica" font-size="24" font-weight="400" fill="#aaa" x="0" y="23">Q3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_93">
+        <text transform="translate(683.5028 251.29884)" fill="#aaa">
+          <tspan font-family="Helvetica" font-size="24" font-weight="400" fill="#aaa" x="0" y="23">Q4</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
