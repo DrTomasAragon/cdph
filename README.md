@@ -18,7 +18,7 @@ We are hiring!
 
 [^diblog]: Tomas Aragon (2021). Decision intelligence: An Introduction. Available from: [https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/)
 
-Decision intelligence is using ethics, science, and technology to improve individual and team decisions for finding and solving problems, and achieving objectives and key results in challenging, including VUCA,[^1] environments.
+Decision intelligence is using ethics, science, and technology to improve individual and team decisions for finding and solving problems, and achieving objectives and key results in challenging, including VUCA,[^1] environments (Figure 1).
 
 ![Decision Intelligence](img_di_venn.png)
 
@@ -42,5 +42,7 @@ The DIU will have a trans-disciplinary team:
 -	Population health data scientist
 -	Biostatistician
 
-The DIU will ensure policy strategic alignment and execution across CDPH Centers, Offices, and Division.
+The DIU is part of CDPH long term strategy to build our capability in population health data science (Figure 2).
+
+![Population Health Data Science](img_phds.png)
 
