@@ -17,6 +17,8 @@ Decision-making is our most important activity. "A decision is a choice between 
 
 Decision intelligence is using ethics, science, and technology to improve individual and team decisions for finding and solving problems, and achieving objectives and key results in challenging, including VUCA,[^1] environments.
 
+![Decision Intelligence](img_di_venn.png)
+
 [^1]: volatile, uncertain, complex, and ambiguous
 
 The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (DIU) to develop, implement, and improve strategic decision-making methods for high stakes, high cost, and high impact public health decisions. Methods will include cost-benefit and cost-effective analyses, and decision analysis. These positions have permanent funding. We will secure grants and develop collaborative partnerships with academic institutions. The major areas of initial focus, development, and collaboration will be
