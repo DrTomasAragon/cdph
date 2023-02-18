@@ -42,7 +42,7 @@ The DIU will have a trans-disciplinary team:
 -	Population health data scientist
 -	Biostatistician
 
-The DIU is part of CDPH long term strategy to build our capability in population health data science (Table).
+The DIU is part of CDPH's longer term strategy to build our capability in population health data science (Table).
 
 ![Population Health Data Science](img_phds.png)
 
