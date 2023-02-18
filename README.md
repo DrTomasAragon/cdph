@@ -3,7 +3,8 @@
 Tomás Aragón, MD, DrPH  
 State Public Health Officer and Director  
 California Department of Public Health  
-[tomas.aragon@cdph.ca.gov](mailto:tomas.aragon@cdph.ca.gov) (email)
+[tomas.aragon@cdph.ca.gov](mailto:tomas.aragon@cdph.ca.gov) (email)  
+https://drtomasaragon.github.io/ (blog)
 
 We are hiring!
 
