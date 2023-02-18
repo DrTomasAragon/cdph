@@ -27,7 +27,7 @@ Decision intelligence is using ethics, science, and technology to improve indivi
 
 The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (DIU) to develop, implement, and improve strategic decision-making methods for high stakes, high cost, and high impact public health decisions. Methods will include cost-benefit and cost-effective analyses, and decision analysis. These positions have permanent funding. We will secure grants and develop collaborative partnerships with academic institutions. The major areas of initial focus, development, and collaboration will be
 
--	Decision making under uncertainty, including deep uncertainty (ie, risks not calculable)
+-	Decision making under uncertainty, including [deep uncertainty](https://www.rand.org/pubs/external_publications/EP67833.html) (ie, risks not calculable)
 -	Methods to optimize policy and regulatory decisions
 -	[Computational algorithms for decision making](https://algorithmsbook.com/) (using Bayesian networks (including decision networks [influence diagrams]), Markov Decision Processes (MDPs), Partially Observable Markov Decision Processes (POMDPs), Reinforcement Learning, Agent-based modeling)
 -	[Leaders as decision architects](https://hbr.org/2015/05/leaders-as-decision-architects):[^da] Design and improve of team decision meetings that incorporate cognitive psychology and behavioral economics
@@ -59,9 +59,10 @@ The DIU is part of CDPH's longer term strategy to build our capability in popula
 
 [^b]: Decision analysis, cost-effectiveness/benefit analysis, mathematical modeling, operations research, etc.
 
-
 Here is a graphical depiction of the Table.[^bayesialab] We aim to imprace our "reasoning" to make better decisions.
 
 ![Population Health Data Science](Bayesia_TheoryData.svg)
 
-[^bayesialab]: Source: https://www.bayesia.com/articles/#!bayesialab-knowledge-hub/1-introduction
+[^bayesialab]: Source: https://www.bayesia.com/articles/#!bayesialab-knowledge-hub/1-introduction 
+
+To learn more about books relevant to decision intelligence, [here is my list](https://drtomasaragon.github.io/posts/2022-08-20-decision-intelligence-books/).
