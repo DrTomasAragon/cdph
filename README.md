@@ -28,7 +28,7 @@ The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (D
 
 -	Decision making under uncertainty, including deep uncertainty (ie, risks not calculable)
 -	Methods to optimize policy and regulatory decisions
--	Computational modeling for predictive and decision analytics (using Bayesian networks (including decision networks [influence diagrams]), Markov Decision Processes (MDPs), Partially Observable Markov Decision Processes (POMDPs), Reinforcement Learning, Agent-based modeling)
+-	[Computational algorithms for decision making](https://algorithmsbook.com/) (using Bayesian networks (including decision networks [influence diagrams]), Markov Decision Processes (MDPs), Partially Observable Markov Decision Processes (POMDPs), Reinforcement Learning, Agent-based modeling)
 -	[Leaders as decision architects](https://hbr.org/2015/05/leaders-as-decision-architects):[^da] Design and improve of team decision meetings that incorporate cognitive psychology and behavioral economics
 
 [^da]: John Beshears and Francesca Gino (2015). Leaders as Decision Architects: Structure your organization’s work to encourage wise choices. Harvard Business Review. Available from:  [https://hbr.org/2015/05/leaders-as-decision-architects](https://hbr.org/2015/05/leaders-as-decision-architects)
