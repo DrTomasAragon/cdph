@@ -14,7 +14,7 @@ We are hiring!
 5. [Behavioral Economist Implementation Scientist (Research Scientist III)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351381)
 6. [Academic Partnerships Research Scientist (Research Scientist III)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351400)
 
-Decision-making is our most important activity. "A decision is a choice between two or more alternatives that involves an irrevocable allocation of resources." Decisions drive vision, strategy, policy, and transformational change. Every decision has causal assumptions, predictions, trade-offs, and an opportunity cost—the lost benefit of the better option(s) not chosen or not considered.
+Decision-making is our most important activity. "A decision is a choice between two or more alternatives that involves an irrevocable allocation of resources." Decisions drive vision, strategy, policy, and transformational change. Every decision has causal assumptions, predictions, trade-offs, and an opportunity cost—the lost benefit of the better option(s) not chosen or not considered. Some decisions have extreme time constraints under deep uncertainty. (See [blog posting](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/).)
 
 Decision intelligence is using ethics, science, and technology to improve individual and team decisions for finding and solving problems, and achieving objectives and key results in challenging, including VUCA,[^1] environments.
 
@@ -24,7 +24,7 @@ Decision intelligence is using ethics, science, and technology to improve indivi
 
 The CDPH Office of Policy and Planning will have a Decision Intelligence Unit (DIU) to develop, implement, and improve strategic decision-making methods for high stakes, high cost, and high impact public health decisions. Methods will include cost-benefit and cost-effective analyses, and decision analysis. These positions have permanent funding. We will secure grants and develop collaborative partnerships with academic institutions. The major areas of initial focus, development, and collaboration will be
 
--	Decision making under deep uncertainty (risks not calculable)
+-	Decision making under uncertainty, including deep uncertainty (ie, risks not calculable)
 -	Methods to optimize policy and regulatory decisions
 -	Computational modeling for predictive and decision analytics (using Bayesian networks (including decision networks [influence diagrams]), Markov Decision Processes (MDPs), Partially Observable Markov Decision Processes (POMDPs), Reinforcement Learning, Agent-based modeling)
 -	Design and improvement of team decision meetings ("dialog decision process") that incorporate team cognitive psychology and behavioral economics
