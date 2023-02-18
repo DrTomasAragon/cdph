@@ -58,3 +58,9 @@ The DIU is part of CDPH's longer term strategy to build our capability in popula
 
 [^b]: Decision analysis, cost-effectiveness/benefit analysis, mathematical modeling, operations research, etc.
 
+
+Here is a graphical depiction of the Table.[^bayesialab] We aim to improve our "reasoning" to make better decisions.
+
+![Population Health Data Science](BayesiaLab_Book_V18_fig1-1.png)
+
+[^bayesialab]: Source: https://www.bayesia.com/home/en-us/
