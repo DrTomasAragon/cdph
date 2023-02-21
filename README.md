@@ -6,14 +6,15 @@ California Department of Public Health
 [tomas.aragon@cdph.ca.gov](mailto:tomas.aragon@cdph.ca.gov) (email)  
 https://drtomasaragon.github.io/ (blog)
 
-We are hiring!
+We are hiring! (UPDATE 2023-02-20)
 
-1. [Research & Analysis Section Supervisor (Research Scientist Supervisor II)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351392)
-2. [Policy Research Scientist (Research Scientist III)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351382)
-3. [Research & Analysis Epidemiologist (Research Scientist III)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351380)
-4. [Decision Intelligence Unit Chief (Research Scientist Supervisor I)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=349462)
-5. [Behavioral Economist Implementation Scientist (Research Scientist III)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351381)
-6. [Academic Partnerships Research Scientist (Research Scientist III)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351400)
+1. [Decision Intelligence Unit Chief (Research Scientist Supervisor I)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=349462)
+2. [Behavioral Economist Implementation Scientist (Research Scientist III)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351381)
+3. Public Health Economist (Research Scientist IV) --- not posted yet
+4. Computation Decision Scientist (Research Scientist IV) --- not posted yet
+5. Computer Programmer (Research Scientist III) --- not posted yet
+6. Biostatistician (Research Scientist III) --- not posted yet
+
 
 [Decision-making is our most important activity](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/).[^diblog] "A decision is a choice between two or more alternatives that involves an irrevocable allocation of resources." Decisions drive vision, strategy, policy, and transformational change. Every decision has causal assumptions, predictions, trade-offs, and an opportunity cost—the lost benefit of the better option(s) not chosen or not considered. Some decisions have extreme time constraints under deep uncertainty.
 
