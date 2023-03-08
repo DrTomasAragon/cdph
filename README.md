@@ -6,10 +6,10 @@ California Department of Public Health
 [tomas.aragon@cdph.ca.gov](mailto:tomas.aragon@cdph.ca.gov) (email)  
 https://drtomasaragon.github.io/ (blog)
 
-We are hiring! (UPDATED 2023-03-05)
+We are hiring! (UPDATED 2023-03-07)
 
 1. [Decision Intelligence Unit Chief (Research Scientist Supervisor I)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=349462) STILL OPEN
-2. Behavioral Economist Implementation Scientist (Research Scientist III) --- was posted; will be extended (coming)
+2. Behavioral Economist Implementation Scientist (Research Scientist III) --- was posted; posting will be extended (coming)
 3. Public Health Economist (Research Scientist IV) --- not posted yet
 4. Computation Decision Scientist (Research Scientist IV) --- not posted yet
 5. Computer Programmer (Research Scientist III) --- not posted yet
