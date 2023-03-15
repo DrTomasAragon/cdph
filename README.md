@@ -74,6 +74,8 @@ Here is an alternative, but very informative, view of decision intelligence (see
 
 [^wequity]: Source: https://wequity.tech/decision-intelligence-and-design-thinking/
 
+<img src="https://github.com/DrTomasAragon/cdph/blob/main/img_di_fig1.png" width="300">
+
 ![Decision intelligence|500](img_di_fig1.png)
 
 ![Decision intelligence with expanded view](img_di_fig2.png)
