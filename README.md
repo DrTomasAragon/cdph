@@ -67,3 +67,13 @@ Here is a graphical depiction of the Table.[^bayesialab] We aim to embrace our "
 [^bayesialab]: Source: https://www.bayesia.com/articles/#!bayesialab-knowledge-hub/1-introduction 
 
 To learn more about books relevant to decision intelligence, [here is my list](https://drtomasaragon.github.io/posts/2022-08-20-decision-intelligence-books/).
+
+## Appendix
+
+Here is an alternative, but very informative, view of decision intelligence (see two figures below):[^wequity]
+
+[^wequity]: Source: https://wequity.tech/decision-intelligence-and-design-thinking/
+
+![Decision intelligence](img_di_fig1)
+
+![Decision intelligence with expanded view](img_di_fig2)
