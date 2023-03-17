@@ -62,7 +62,7 @@ The DIU is part of CDPH's longer term strategy to build our capability in popula
 
 Here is a graphical depiction of the Table.[^bayesialab] We aim to embrace our "reasoning" to make better decisions.
 
-![Population Health Data Science](Bayesia_TheoryData.svg)
+![Population Health Data Science](img_phds.png)
 
 [^bayesialab]: Source: https://www.bayesia.com/articles/#!bayesialab-knowledge-hub/1-introduction 
 
