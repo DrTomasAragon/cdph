@@ -22,7 +22,7 @@ We are hiring! (UPDATED 2023-03-07)
 
 Decision intelligence is using ethics, science, and technology to improve individual and team decisions for finding and solving problems, and achieving objectives and key results in challenging, including VUCA,[^1] environments (Figure 1).
 
-![Decision Intelligence](img_di_venn.png)
+![Decision Intelligence](./images/img_di_venn.png)
 
 [^1]: volatile, uncertain, complex, and ambiguous
 
@@ -62,7 +62,7 @@ The DIU is part of CDPH's longer term strategy to build our capability in popula
 
 Here is a graphical depiction of the Table.[^bayesialab] We aim to embrace our "reasoning" to make better decisions.
 
-![Population Health Data Science](img_phds.png)
+![Population Health Data Science](./images/img_phds.png)
 
 [^bayesialab]: Source: https://www.bayesia.com/articles/#!bayesialab-knowledge-hub/1-introduction 
 
@@ -74,7 +74,7 @@ Here is an alternative, but very informative, view of decision intelligence (see
 
 [^wequity]: Source: https://wequity.tech/decision-intelligence-and-design-thinking/
 
-<img src="https://github.com/DrTomasAragon/cdph/blob/main/img_di_fig1.png" width="500">
+<img src="./images/img_di_fig1.png" width="500">
 
-<img src="https://github.com/DrTomasAragon/cdph/blob/main/img_di_fig2.png" width="900">
+<img src="./images/img_di_fig2.png" width="900">
 
