@@ -11,8 +11,12 @@ https://drtomasaragon.github.io/ (blog)
 
 We are hiring! (UPDATED 2023-03-07)
 
-1. [Decision Intelligence Unit Chief (Research Scientist Supervisor I)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=349462) CLOSED -- apps under review
-2. [Behavioral Economist Implementation Scientist (Research Scientist III)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351381) --- CLOSED apps under review
+1. [Decision Intelligence Unit Chief (Research Scientist Supervisor
+   I)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=349462)
+   --- CLOSED -- apps under review
+2. [Behavioral Economist Implementation Scientist (Research Scientist
+   III)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351381)
+   --- CLOSED --- apps under review
 3. Public Health Economist (Research Scientist IV) --- not posted yet
 4. Computation Decision Scientist (Research Scientist IV) --- not posted yet
 5. Computer Programmer (Research Scientist III) --- not posted yet
