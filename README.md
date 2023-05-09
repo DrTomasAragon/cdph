@@ -1,5 +1,8 @@
 # CDPH is building a Decision Intelligence Unit
 
+![Decision Intelligence](./images/img_di_google_cdo.png)
+
+
 Tomás Aragón, MD, DrPH  
 State Public Health Officer and Director  
 California Department of Public Health  
