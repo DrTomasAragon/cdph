@@ -9,20 +9,6 @@ California Department of Public Health
 [tomas.aragon@cdph.ca.gov](mailto:tomas.aragon@cdph.ca.gov) (email)  
 https://drtomasaragon.github.io/ (blog)
 
-We are hiring! (UPDATED 2023-03-07)
-
-1. [Decision Intelligence Unit Chief (Research Scientist Supervisor
-   I)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=349462)
-   --- CLOSED -- apps under review
-2. [Behavioral Economist Implementation Scientist (Research Scientist
-   III)](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=351381)
-   --- CLOSED --- apps under review
-3. Public Health Economist (Research Scientist IV) --- not posted yet
-4. Computation Decision Scientist (Research Scientist IV) --- not posted yet
-5. Computer Programmer (Research Scientist III) --- not posted yet
-6. Biostatistician (Research Scientist III) --- not posted yet
-
-
 [Decision-making is our most important activity](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/).[^diblog] "A decision is a choice between two or more alternatives that involves an irrevocable allocation of resources." Decisions drive vision, strategy, policy, and transformational change. Every decision has causal assumptions, predictions, trade-offs, and an opportunity cost—the lost benefit of the better option(s) not chosen or not considered. Some decisions have extreme time constraints under deep uncertainty.
 
 [^diblog]: Tomas Aragon (2021). Decision intelligence: An Introduction. Available from: [https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/](https://drtomasaragon.github.io/posts/2021-03-13-decision-intelligence01/)
